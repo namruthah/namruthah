@@ -8,7 +8,7 @@ I enjoy working in collaborative environments and consistently aim to contribute
 ## 🚀 Skills
 
 ### 💻 Technical & Domain Skills  
-**SQL**, Salesforce Sandbox, Manual Testing, JIRA, Google Workspace, MS Office Suite
+SQL • Power BI • Salesforce Sandbox • Manual Testing • JIRA • Google Workspace • MS Office Suite
 
 ### 🧠 Analytical & Functional Skills  
 Requirement Elicitation • User Stories & Use Cases • Data Validation • Agile Methodology
