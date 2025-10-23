@@ -13,7 +13,7 @@ A Highly motivated and detail-oriented professional with hands-on experience in 
 | **Technical Tools** | MS Word, Power BI, Lucidchart, Figma,PowerPoint, Excel |
 | **Analytical Skills** | Problem Solving, Critical Thinking, Root Cause Analysis |
 | **Soft Skills** | Communication, Stakeholder Management, Collaboration, Adaptability, Time Management, Attention to Detail |
-| **QA Skills** | Salesforce Sandbox, Manual Testing, JIRA, Agile Methodology, Salesforce CRM, TestCase |
+| **QA Skills** | Salesforce Sandbox, Manual Testing, JIRA, Agile Methodology, UAT, TestCase |
 
 ---
 
