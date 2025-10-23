@@ -1,20 +1,19 @@
 # 👋 Hi, I'm Namrutha H – QA Analyst & Business Analytics Enthusiast
 
-A Highly motivated and detail-oriented professional with hands-on experience in **Salesforce QA Environments**. I’m passionated in **Stakeholder Communication, Critical Thinking and Problem Solving, Documentation Skills and transforming data into actionable insights**. 
-I enjoy working in collaborative environments and consistently aim to contribute to impactful projects while growing within the organization.
+A Highly motivated and detail-oriented professional with hands-on experience in **Salesforce QA Environments**. I’m passionated in **Stakeholder Communication, Critical Thinking and Problem Solving, Documentation Skills and transforming data into actionable insights**. I enjoy working in collaborative environments and consistently aim to contribute to impactful projects while growing within the organization.
 
 ---
 
 ## 🚀 Skills
 
-### 💻 Technical & Domain Skills  
-SQL • Power BI • Salesforce Sandbox • Manual Testing • JIRA • Google Workspace • MS Office Suite
-
-### 🧠 Analytical & Functional Skills  
-Requirement Elicitation • User Stories & Use Cases • Data Validation • Agile Methodology
-
-### 🤝 Soft Skills  
-Stakeholder Management • Effective Communication • Critical Thinking • Team Collaboration
+| Category | Skills |
+|-----------|--------|
+| **Business Analysis** | Requirement Gathering, BRD & FRD Documentation, Use Case Modeling, Wireframing, Process Flow Design |
+| **Data Analysis** | SQL, Power BI, Excel, Data Visualization, Trend Analysis |
+| **Technical Tools** | MS Word, Power BI, Lucidchart, Figma, BigQuery, PowerPoint, Excel |
+| **Analytical Skills** | Problem Solving, Critical Thinking, Root Cause Analysis |
+| **Soft Skills** | Communication, Stakeholder Management, Collaboration, Adaptability, Time Management, Attention to Detail |
+| **QA Skills** | Salesforce Sandbox, Manual Testing, JIRA, Agile Methodology, Salesforce CRM, TestCase |
 
 ---
 
@@ -34,7 +33,6 @@ Stakeholder Management • Effective Communication • Critical Thinking • Tea
 
 - 🎓 **MBA – Business Analytics**, SRM University *(2024–Present)*  
 - 🎓 **BSc – Information Technology**, PSG College of Arts & Science *(2021–2024)*  
-- 🏫 Higher Secondary School – Kikani Matric HSS, Coimbatore
 
 ---
 
