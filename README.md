@@ -7,6 +7,7 @@ A Highly motivated and detail-oriented professional with hands-on experience in 
 ## 🚀 Skills
 
 Requirement Analysis | BRD/FRD | Stakeholder Engagement | SQL | Power BI | MS Excel | Data Analysis | Data Visualization | JIRA | Communication Skills
+
 ---
 
 ## 💼 Work Experience
