@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Namrutha H – QA Analyst & Business Analytics Enthusiast
+# 👋 Hi, I'm Namrutha H 
 
 A Highly motivated and detail-oriented professional with hands-on experience in **Stakeholder Communication, Critical Thinking and Problem Solving, Documentation Skills and transforming data into actionable insights**. I enjoy working in collaborative environments and consistently aim to contribute to impactful projects while growing within the organization.
 
