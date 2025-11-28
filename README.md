@@ -54,5 +54,5 @@ Requirement Analysis | BRD/FRD | Stakeholder Engagement | SQL | Power BI | MS Ex
 
 ## 📫 Let's Connect!
 
-- 📧 **Email**: [2004nammu@gmail.com](mailto:2004nammu@gmail.com)  
+- 📧 **Email**: [namruthaharikumar02@gmail.com](mailto:namruthaharikumar02@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/namruthah](https://www.linkedin.com/in/namruthah)
