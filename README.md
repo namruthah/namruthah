@@ -15,14 +15,20 @@ Requirement Analysis | BRD/FRD | Stakeholder Engagement | SQL | Power BI | MS Ex
 ### 🔹 Accenture – Packaged App Development Associate (COX)  
 *Jul 2024 – Present*
 
-- Executed **70+ test cycles** across OME flows, ensuring smooth service transitions and accurate order fulfillment.
-- Validated **40+ NBX offers** for eligibility logic, backend accuracy, and correct customer recommendations.
-- Tested **MACD (Move, Add, Change, Delete)** flows to ensure reliable customer order updates.
-- Led **post-production validations** and **end-to-end regression** for multiple Production Fix releases.
-- Used **SQL + backend validations** to verify business logic and maintain system integrity during Agile sprints.
-- Shadowed **Business Analysts** in requirement discussions, user story refinement, and gap analysis.
-- Supported the BA team by clarifying requirements, mapping acceptance criteria, and ensuring traceability.
-- Collaborated with BA, Dev, and Product teams to analyze defects and align functionality with business needs.
+- Reduced requirement ambiguity by collaborating with Business and Product teams to clarify
+requirements, map acceptance criteria, and maintain end-to-end traceability, improving requirement
+clarity by 25% across sprints. 
+- Contributed to UAT and functional testing by creating and executing test
+scenarios, validating workflows, and documenting defects using JIRA, reducing recurring issues by
+20%. 
+- Validated Salesforce Order Management orchestration flows, ensuring accuracy in order submission,
+routing, and fulfillment processes across the end-to-end business lifecycle.
+- Managed end-to-end test cycles by preparing test data, executing regression suites, coordinating
+defect fixes in JIRA, and ensuring timely readiness for deployment, enhancing release stability by 15%. 
+- Supported data-driven decision-making by using SQL and backend validations to verify business rules
+during Agile sprints. 
+- Worked with cross-functional teams to ensure smooth and successful deployment during production
+release cycles. 
 
 ---
 
